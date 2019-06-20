@@ -1,0 +1,4 @@
+[2019-06-15 17:40:15,539] WARN [Controller id=0, targetBrokerId=0] Connection to node 0 (/10.161.56.13:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient)
+[2019-06-15 17:40:43,209] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-06-15 17:50:43,218] INFO [GroupMetadataManager brokerId=0] Removed 0 expired offsets in 0 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2019-06-15 17:54:29,710] WARN [Controller id=0, targetBrokerId=0] Connection to node 0 (/10.161.56.13:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient)

@@ -1,0 +1,3 @@
+[2019-06-15 09:53:48,696] TRACE [Controller id=0 epoch=14] Changed state of replica 0 for partition clients-0 from OnlineReplica to OnlineReplica (state.change.logger)
+[2019-06-15 09:53:48,698] TRACE [Controller id=0 epoch=14] Sending become-leader LeaderAndIsr request PartitionState(controllerEpoch=1, leader=0, leaderEpoch=0, isr=0, zkVersion=0, replicas=0, isNew=false) to broker 0 for partition clients-0 (state.change.logger)
+[2019-06-15 09:53:48,699] TRACE [Controller id=0 epoch=14] Sending UpdateMetadata request PartitionState(controllerEpoch=1, leader=0, leaderEpoch=0, isr=[0], zkVersion=0, replicas=[0], offlineReplicas=[]) to brokers Set(0) for partition clients-0 (state.change.logger)
